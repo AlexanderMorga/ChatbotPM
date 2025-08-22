@@ -1,0 +1,1208 @@
+[
+  {
+    "id": "N1-DEUDA-001",
+    "titulo": "Registra todos tus gastos en una libreta",
+    "explicacion": "Anota cada compra que hagas, incluso las pequeñas como un refresco o un boleto de metro. Esto te ayuda a ver hacia dónde se va tu dinero y a identificar fugas.",
+    "categoria": "Gastos",
+    "nivel_ingreso": ["Nivel 1"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N1-DEUDA-002",
+    "titulo": "Identifica y elimina gastos vampiro",
+    "explicacion": "Revisa qué gastos pequeños se repiten (refrescos, cigarros, apps de streaming) y elimínalos o sustitúyelos. Ese dinero puede ir directo a tus deudas.",
+    "categoria": "Gastos",
+    "nivel_ingreso": ["Nivel 1"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N1-DEUDA-003",
+    "titulo": "Prioriza servicios básicos sobre deudas de consumo",
+    "explicacion": "Siempre paga primero agua, luz y renta antes de abonar a créditos de tiendas. Mantener cubiertos los básicos evita problemas mayores.",
+    "categoria": "Organización financiera",
+    "nivel_ingreso": ["Nivel 1"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N1-DEUDA-004",
+    "titulo": "Negocia plazos fijos en tiendas departamentales",
+    "explicacion": "Si tienes deudas en Coppel, Elektra u Oxxo Saldazo, pide que congelen tu saldo en un plan de pagos fijos. Así dejarás de pagar intereses abiertos.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 1"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N1-DEUDA-005",
+    "titulo": "Usa el método bola de nieve para pagar deudas",
+    "explicacion": "Haz una lista de tus deudas de menor a mayor. Liquida la más pequeña primero y luego pasa a la siguiente. Cada éxito te dará motivación.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 1"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N1-DEUDA-006",
+    "titulo": "Evita recargar saldo de celular a crédito",
+    "explicacion": "Nunca uses meses sin intereses o crédito rápido para pagar tiempo aire. Terminas pagando hasta 30% más por algo que dura pocos días.",
+    "categoria": "Gastos",
+    "nivel_ingreso": ["Nivel 1"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N1-DEUDA-007",
+    "titulo": "Paga servicios en línea para evitar comisiones",
+    "explicacion": "CFE, agua y predial pueden pagarse por app bancaria sin comisiones extra. Cada peso ahorrado en cargos va mejor a tu deuda.",
+    "categoria": "Gastos",
+    "nivel_ingreso": ["Nivel 1"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N1-DEUDA-008",
+    "titulo": "Usa apps gratuitas de control de gastos",
+    "explicacion": "Descarga apps como Monefy o Fintonic. Te ayudan a categorizar gastos y visualizar cuánto destinas a comida, transporte y deudas.",
+    "categoria": "Organización financiera",
+    "nivel_ingreso": ["Nivel 1"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N1-DEUDA-009",
+    "titulo": "Consolida deudas con familiares de confianza",
+    "explicacion": "Si algún familiar puede prestarte con baja o nula tasa de interés, usa ese dinero para pagar deudas caras y así reducir la presión.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 1"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N1-DEUDA-010",
+    "titulo": "Espera 24 horas antes de compras no esenciales",
+    "explicacion": "Si quieres comprar algo que no es básico (ropa extra, gadgets), espera un día antes de decidir. Muchas veces descubrirás que no lo necesitas.",
+    "categoria": "Gastos",
+    "nivel_ingreso": ["Nivel 1"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N1-DEUDA-011",
+    "titulo": "Usa transporte público en lugar de taxis o apps",
+    "explicacion": "El metro o metrobús cuesta 10 veces menos que un viaje en app. Esa diferencia puede destinarse a reducir deudas.",
+    "categoria": "Gastos",
+    "nivel_ingreso": ["Nivel 1"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N1-DEUDA-012",
+    "titulo": "Evita préstamos exprés",
+    "explicacion": "No recurras a préstamos rápidos en línea. Sus intereses superan el 100% anual y te hunden más en deuda.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 1"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N1-DEUDA-013",
+    "titulo": "Paga siempre más del mínimo en tarjeta",
+    "explicacion": "El pago mínimo mantiene la deuda viva por años. Intenta dar al menos el doble del mínimo para bajar el capital.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 1"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N1-DEUDA-014",
+    "titulo": "Ordena tus deudas por tasa de interés",
+    "explicacion": "Haz una lista con todas tus deudas y escribe la tasa de interés de cada una. Ataca primero la más cara, esa es la que más dinero te roba.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 1"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N1-DEUDA-015",
+    "titulo": "Revisa programas de apoyo o condonación",
+    "explicacion": "En CDMX existen programas que condonan recargos de predial o agua si pagas en una sola exhibición. Aprovecha para liberar dinero.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 1"],
+    "condicion": ["Con deudas"]
+  },
+
+  {
+    "id": "N1-SINDEUDA-001",
+    "titulo": "Guarda 10% de tus ingresos cada semana",
+    "explicacion": "Aunque tu ingreso sea bajo, separar una parte para ahorro te da seguridad y evita endeudarte en emergencias.",
+    "categoria": "Ahorro",
+    "nivel_ingreso": ["Nivel 1"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N1-SINDEUDA-002",
+    "titulo": "Empieza a invertir en CETES desde $100",
+    "explicacion": "Abre una cuenta en Cetesdirecto y pon tus primeros $100. Es seguro, fácil y mejor que dejarlo en efectivo.",
+    "categoria": "Inversión",
+    "nivel_ingreso": ["Nivel 1"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N1-SINDEUDA-003",
+    "titulo": "Compra alimentos a granel",
+    "explicacion": "Compra arroz, frijol o avena en mercados o tiendas a granel. Ahorras hasta 20% frente al súper y duran semanas.",
+    "categoria": "Gastos",
+    "nivel_ingreso": ["Nivel 1"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N1-SINDEUDA-004",
+    "titulo": "Planea tus menús semanales",
+    "explicacion": "Escribe un menú semanal y haz lista de compras. Evitarás gastos innecesarios en fondas o delivery.",
+    "categoria": "Organización financiera",
+    "nivel_ingreso": ["Nivel 1"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N1-SINDEUDA-005",
+    "titulo": "Evita usar crédito para ropa o comida",
+    "explicacion": "Si no puedes pagar de contado, no lo compres. Deuda en ropa o comida solo genera más presión.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 1"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N1-SINDEUDA-006",
+    "titulo": "Usa transporte público como regla",
+    "explicacion": "Metro y metrobús cuestan mucho menos que taxis o apps. Lo ahorrado puedes guardarlo en tu fondo.",
+    "categoria": "Gastos",
+    "nivel_ingreso": ["Nivel 1"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N1-SINDEUDA-007",
+    "titulo": "Compra ropa en bazares o segunda mano",
+    "explicacion": "En CDMX hay bazares con ropa en buen estado y a bajo precio. Gasta menos sin sacrificar calidad.",
+    "categoria": "Gastos",
+    "nivel_ingreso": ["Nivel 1"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N1-SINDEUDA-008",
+    "titulo": "Reserva $200 a $500 para emergencias",
+    "explicacion": "Un pequeño colchón evita endeudarte por una medicina o transporte urgente. Guárdalo en efectivo seguro.",
+    "categoria": "Ahorro",
+    "nivel_ingreso": ["Nivel 1"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N1-SINDEUDA-009",
+    "titulo": "Elimina suscripciones que no uses",
+    "explicacion": "Revisa cada mes tus apps de música, series o juegos. Cancela las que no uses seguido y guarda ese dinero.",
+    "categoria": "Gastos",
+    "nivel_ingreso": ["Nivel 1"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N1-SINDEUDA-010",
+    "titulo": "Usa promociones en farmacias con monedero",
+    "explicacion": "Farmacias del Ahorro y similares devuelven parte de tu compra en monedero. Úsalo en futuras medicinas.",
+    "categoria": "Gastos",
+    "nivel_ingreso": ["Nivel 1"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N1-SINDEUDA-011",
+    "titulo": "Evita tandas sin respaldo",
+    "explicacion": "Si participas en tandas, que sean con familiares o apps formales. Evita perder dinero en tandas informales.",
+    "categoria": "Ahorro",
+    "nivel_ingreso": ["Nivel 1"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N1-SINDEUDA-012",
+    "titulo": "Aprovecha tu aguinaldo para ahorrar",
+    "explicacion": "Si recibes aguinaldo, guarda al menos 30% en una cuenta de ahorro. Así no lo gastas todo en diciembre.",
+    "categoria": "Ahorro",
+    "nivel_ingreso": ["Nivel 1"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N1-SINDEUDA-013",
+    "titulo": "Usa cuentas digitales sin comisiones",
+    "explicacion": "Abre una cuenta en bancos digitales como Nu o Albo. Evitas pagar comisiones y tu dinero está seguro.",
+    "categoria": "Organización financiera",
+    "nivel_ingreso": ["Nivel 1"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N1-SINDEUDA-014",
+    "titulo": "Toma cursos gratuitos de la CDMX",
+    "explicacion": "Aprovecha programas como PILARES para aprender gratis y mejorar tus habilidades sin gastar.",
+    "categoria": "Inversión en ti mismo",
+    "nivel_ingreso": ["Nivel 1"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N1-SINDEUDA-015",
+    "titulo": "Separa tu dinero en sobres o cuentas",
+    "explicacion": "Divide tu ingreso en categorías (comida, transporte, ahorro) con sobres o apps. Así sabes exactamente en qué gastas.",
+    "categoria": "Organización financiera",
+    "nivel_ingreso": ["Nivel 1"],
+    "condicion": ["Sin deudas"]
+  },
+
+  {
+    "id": "N2-DEUDA-001",
+    "titulo": "Aplica el método avalancha para tus deudas",
+    "explicacion": "Haz una lista de todas tus deudas con su tasa de interés. Paga primero la que cobra más intereses, mientras cubres el mínimo de las demás. Esto reduce el costo total más rápido.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 2"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N2-DEUDA-002",
+    "titulo": "No adquieras nuevas deudas hasta reducir las actuales",
+    "explicacion": "Evita usar tu tarjeta o pedir préstamos nuevos. Cada deuda adicional hará más lento tu avance hacia la estabilidad.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 2"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N2-DEUDA-003",
+    "titulo": "Configura topes de gasto en tu app bancaria",
+    "explicacion": "Usa las funciones de tu banco para poner límites en categorías como restaurantes o transporte. Así evitas que se te vaya dinero que podrías destinar a tus deudas.",
+    "categoria": "Organización financiera",
+    "nivel_ingreso": ["Nivel 2"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N2-DEUDA-004",
+    "titulo": "Reestructura tarjetas con CAT mayor a 70%",
+    "explicacion": "Si tu tarjeta cobra intereses altísimos, solicita un plan de pagos fijos o un préstamo con menor tasa para saldarla y pagar menos.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 2"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N2-DEUDA-005",
+    "titulo": "Ahorra al menos 5% de tu ingreso en paralelo",
+    "explicacion": "Aunque tengas deudas, guarda un pequeño porcentaje. Este ahorro evitará que vuelvas a endeudarte por emergencias.",
+    "categoria": "Ahorro",
+    "nivel_ingreso": ["Nivel 2"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N2-DEUDA-006",
+    "titulo": "Cancela seguros innecesarios en tus créditos",
+    "explicacion": "Muchos préstamos y tarjetas incluyen seguros que no usas. Solicita la cancelación y destina ese dinero extra a tus pagos.",
+    "categoria": "Gastos",
+    "nivel_ingreso": ["Nivel 2"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N2-DEUDA-007",
+    "titulo": "Vende artículos que ya no uses",
+    "explicacion": "Cosas como ropa, electrónicos o muebles pueden convertirse en dinero inmediato para abonar a tus deudas.",
+    "categoria": "Ingresos",
+    "nivel_ingreso": ["Nivel 2"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N2-DEUDA-008",
+    "titulo": "Usa bonos y aguinaldos solo para deudas",
+    "explicacion": "Cuando recibas dinero extra (bono, aguinaldo, prima vacacional), destínalo directamente a tus deudas para acelerar su liquidación.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 2"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N2-DEUDA-009",
+    "titulo": "Pon un límite diario en efectivo para gastos",
+    "explicacion": "Decide cuánto efectivo usarás al día (ej. $150) y no gastes más. Esto evita que uses tarjeta y te endeudes más.",
+    "categoria": "Gastos",
+    "nivel_ingreso": ["Nivel 2"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N2-DEUDA-010",
+    "titulo": "Usa débito en lugar de crédito",
+    "explicacion": "Paga con tarjeta de débito para no acumular nuevas deudas. Así gastas solo lo que tienes.",
+    "categoria": "Gastos",
+    "nivel_ingreso": ["Nivel 2"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N2-DEUDA-011",
+    "titulo": "Busca refinanciamiento formal",
+    "explicacion": "Si tu deuda es grande, acude a tu banco para buscar un crédito con menor tasa y pagarlo a plazos claros. Evita financieras informales.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 2"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N2-DEUDA-012",
+    "titulo": "Haz 'días sin gasto' dos veces por semana",
+    "explicacion": "Elige dos días a la semana en los que no gastarás nada fuera de lo básico. Usa esos ahorros para abonar deuda.",
+    "categoria": "Gastos",
+    "nivel_ingreso": ["Nivel 2"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N2-DEUDA-013",
+    "titulo": "Registra pagos en un calendario",
+    "explicacion": "Lleva un calendario físico o en app con fechas de pago de cada deuda. Así evitas atrasos y recargos.",
+    "categoria": "Organización financiera",
+    "nivel_ingreso": ["Nivel 2"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N2-DEUDA-014",
+    "titulo": "Revisa tu historial en Buró de Crédito",
+    "explicacion": "Descarga gratis tu reporte de Buró una vez al año. Te muestra tus deudas y cómo te ven los bancos.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 2"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N2-DEUDA-015",
+    "titulo": "Destina ingresos extra a deuda primero",
+    "explicacion": "Cualquier ingreso inesperado (venta, propina, bono) úsalo en deudas. Libérate antes de aumentar tus gastos.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 2"],
+    "condicion": ["Con deudas"]
+  },
+
+  {
+    "id": "N2-SINDEUDA-001",
+    "titulo": "Construye un fondo de emergencia de 1 mes",
+    "explicacion": "Ahorra el equivalente a tus gastos fijos de un mes. Te dará tranquilidad ante imprevistos.",
+    "categoria": "Ahorro",
+    "nivel_ingreso": ["Nivel 2"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N2-SINDEUDA-002",
+    "titulo": "Ahorra automáticamente cada quincena",
+    "explicacion": "Programa tu app bancaria para que el día de pago se transfiera 10–15% a una cuenta de ahorro separada.",
+    "categoria": "Ahorro",
+    "nivel_ingreso": ["Nivel 2"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N2-SINDEUDA-003",
+    "titulo": "Invierte en CETES y fondos de renta fija",
+    "explicacion": "Destina parte de tu ahorro a instrumentos seguros como CETES o fondos. Obtendrás rendimiento superior al ahorro tradicional.",
+    "categoria": "Inversión",
+    "nivel_ingreso": ["Nivel 2"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N2-SINDEUDA-004",
+    "titulo": "Contrata un seguro básico de salud o vida",
+    "explicacion": "Un seguro evita que una emergencia te saque todo tu ahorro o te obligue a endeudarte.",
+    "categoria": "Seguros",
+    "nivel_ingreso": ["Nivel 2"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N2-SINDEUDA-005",
+    "titulo": "Prepara tu comida en casa",
+    "explicacion": "Lleva comida hecha en casa al trabajo al menos 3 veces por semana. Podrás ahorrar hasta $1,000 al mes.",
+    "categoria": "Gastos",
+    "nivel_ingreso": ["Nivel 2"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N2-SINDEUDA-006",
+    "titulo": "Invierte en formación profesional",
+    "explicacion": "Usa parte de tu dinero en cursos o certificaciones que aumenten tu valor en el mercado laboral.",
+    "categoria": "Inversión en ti mismo",
+    "nivel_ingreso": ["Nivel 2"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N2-SINDEUDA-007",
+    "titulo": "Divide tus cuentas bancarias",
+    "explicacion": "Ten una cuenta solo para gastos diarios y otra solo para ahorro. Así evitas mezclar dinero.",
+    "categoria": "Organización financiera",
+    "nivel_ingreso": ["Nivel 2"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N2-SINDEUDA-008",
+    "titulo": "Aprovecha deducciones fiscales",
+    "explicacion": "Guarda tus facturas de colegiaturas, salud o hipoteca. Puedes deducirlas y recuperar dinero en tu declaración anual.",
+    "categoria": "Fiscal",
+    "nivel_ingreso": ["Nivel 2"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N2-SINDEUDA-009",
+    "titulo": "Usa tarjetas con cashback",
+    "explicacion": "Elige tarjetas que devuelvan un porcentaje de tus compras. Ese dinero puede ir a tu ahorro.",
+    "categoria": "Gastos",
+    "nivel_ingreso": ["Nivel 2"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N2-SINDEUDA-010",
+    "titulo": "Define metas de ahorro concretas",
+    "explicacion": "Ponle nombre a tu ahorro (ej. viaje, computadora). Ahorrarás con más motivación y claridad.",
+    "categoria": "Ahorro",
+    "nivel_ingreso": ["Nivel 2"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N2-SINDEUDA-011",
+    "titulo": "Lleva control mensual de gastos",
+    "explicacion": "Usa Excel o una app para registrar ingresos y egresos. Evalúa cada mes cómo mejorar.",
+    "categoria": "Organización financiera",
+    "nivel_ingreso": ["Nivel 2"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N2-SINDEUDA-012",
+    "titulo": "No aumentes tu estilo de vida con cada aumento",
+    "explicacion": "Cuando te suban el sueldo, guarda la diferencia en lugar de gastarla. Así creces financieramente.",
+    "categoria": "Ahorro",
+    "nivel_ingreso": ["Nivel 2"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N2-SINDEUDA-013",
+    "titulo": "Revisa comisiones bancarias",
+    "explicacion": "Verifica que tu banco no cobre comisiones ocultas. Si las hay, cámbiate a una opción sin costos.",
+    "categoria": "Gastos",
+    "nivel_ingreso": ["Nivel 2"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N2-SINDEUDA-014",
+    "titulo": "Ten siempre efectivo reservado",
+    "explicacion": "Guarda $500–$1,000 en un lugar seguro. Te servirá en casos donde no acepten tarjeta.",
+    "categoria": "Ahorro",
+    "nivel_ingreso": ["Nivel 2"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N2-SINDEUDA-015",
+    "titulo": "Invierte en bolsa o FIBRAs desde $100",
+    "explicacion": "Usa plataformas como GBM o Flink para comprar fracciones de acciones o FIBRAs. Así empiezas a diversificar.",
+    "categoria": "Inversión",
+    "nivel_ingreso": ["Nivel 2"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N3-DEUDA-001",
+    "titulo": "Consolida tus deudas a menor tasa",
+    "explicacion": "Si pagas intereses altos en varias tarjetas, busca un préstamo personal con menor tasa y úsalos para pagar esas deudas. Así reduces tu costo financiero.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 3"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N3-DEUDA-002",
+    "titulo": "No uses tarjeta para gastos fijos",
+    "explicacion": "Paga renta, servicios y súper con débito o transferencia. Usar crédito en gastos fijos aumenta tu deuda cada mes.",
+    "categoria": "Gastos",
+    "nivel_ingreso": ["Nivel 3"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N3-DEUDA-003",
+    "titulo": "Negocia planes de pagos fijos",
+    "explicacion": "Si no puedes liquidar una tarjeta, pide a tu banco un plan de pagos fijos. Es mejor que seguir pagando interés revolvente.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 3"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N3-DEUDA-004",
+    "titulo": "Usa el 100% de tu aguinaldo en deudas caras",
+    "explicacion": "En lugar de gastar tu aguinaldo, destínalo a la deuda con mayor interés. Es un golpe fuerte que reduce años de pagos.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 3"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N3-DEUDA-005",
+    "titulo": "Evita gastos hormiga en apps de delivery",
+    "explicacion": "Los pedidos pequeños en apps generan comisiones altas. Evítalos y usa ese dinero para abonar deuda.",
+    "categoria": "Gastos",
+    "nivel_ingreso": ["Nivel 3"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N3-DEUDA-006",
+    "titulo": "Haz pagos quincenales en lugar de mensuales",
+    "explicacion": "Divide tu abono mensual en dos y paga cada quincena. Así reduces intereses diarios en tarjetas.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 3"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N3-DEUDA-007",
+    "titulo": "Reduce tu límite de crédito",
+    "explicacion": "Solicita a tu banco que baje tu línea de crédito. Así te obligas a no usar más dinero prestado del necesario.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 3"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N3-DEUDA-008",
+    "titulo": "Evita financiar vacaciones",
+    "explicacion": "No uses meses sin intereses para viajes. Te deja pagando por experiencias que ya disfrutaste mientras la deuda sigue.",
+    "categoria": "Gastos",
+    "nivel_ingreso": ["Nivel 3"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N3-DEUDA-009",
+    "titulo": "Prioriza seguros básicos sobre deudas pequeñas",
+    "explicacion": "Tener seguro médico o de vida evita que un imprevisto te lleve a más deuda. Es prioridad antes de pagar deudas menores.",
+    "categoria": "Seguros",
+    "nivel_ingreso": ["Nivel 3"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N3-DEUDA-010",
+    "titulo": "Registra tus intereses mensuales",
+    "explicacion": "Apunta cuánto pagas de intereses cada mes. Al verlo, tendrás más motivación para reducir deudas rápido.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 3"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N3-DEUDA-011",
+    "titulo": "Evita refinanciar con tarjetas nuevas",
+    "explicacion": "No abras otra tarjeta para pagar la actual. Solo trasladas el problema y aumentas la deuda.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 3"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N3-DEUDA-012",
+    "titulo": "Ahorra un 5% para no endeudarte más",
+    "explicacion": "Aunque tengas deuda, separa un 5% de tu sueldo para emergencias. Así no usarás la tarjeta cuando surja un imprevisto.",
+    "categoria": "Ahorro",
+    "nivel_ingreso": ["Nivel 3"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N3-DEUDA-013",
+    "titulo": "Revisa tu score en Buró de Crédito",
+    "explicacion": "Pide tu reporte gratis en Buró de Crédito una vez al año. Saber tu score te ayuda a negociar mejores condiciones.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 3"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N3-DEUDA-014",
+    "titulo": "Paga primero créditos de nómina",
+    "explicacion": "Los préstamos ligados a tu nómina pueden quedarse con tu dinero automáticamente. Liquídalos antes que otros.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 3"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N3-DEUDA-015",
+    "titulo": "No renueves gadgets con crédito",
+    "explicacion": "Evita comprar el celular más nuevo con crédito. Si tu equipo funciona, espera a liquidar deudas antes de actualizar.",
+    "categoria": "Gastos",
+    "nivel_ingreso": ["Nivel 3"],
+    "condicion": ["Con deudas"]
+  },
+
+  {
+    "id": "N3-SINDEUDA-001",
+    "titulo": "Crea un fondo de emergencia de 3 meses",
+    "explicacion": "Ahorra lo equivalente a 3 meses de tus gastos fijos. Esto te protege de imprevistos sin endeudarte.",
+    "categoria": "Ahorro",
+    "nivel_ingreso": ["Nivel 3"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N3-SINDEUDA-002",
+    "titulo": "Aporta voluntariamente a tu Afore",
+    "explicacion": "Haz aportaciones extras a tu Afore desde $100. A largo plazo, esto aumenta mucho tu pensión.",
+    "categoria": "Inversión",
+    "nivel_ingreso": ["Nivel 3"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N3-SINDEUDA-003",
+    "titulo": "Invierte en fondos indexados",
+    "explicacion": "Los fondos indexados replican el mercado. Son diversificados y de bajo costo, ideales para metas a largo plazo.",
+    "categoria": "Inversión",
+    "nivel_ingreso": ["Nivel 3"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N3-SINDEUDA-004",
+    "titulo": "Deduce gastos médicos y colegiaturas",
+    "explicacion": "Guarda facturas de salud y educación. Puedes deducirlas en tu declaración anual y recibir saldo a favor.",
+    "categoria": "Fiscal",
+    "nivel_ingreso": ["Nivel 3"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N3-SINDEUDA-005",
+    "titulo": "Contrata un seguro de gastos médicos",
+    "explicacion": "Un seguro te protege de imprevistos médicos que podrían borrar tus ahorros. Priorízalo en tu presupuesto.",
+    "categoria": "Seguros",
+    "nivel_ingreso": ["Nivel 3"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N3-SINDEUDA-006",
+    "titulo": "Separa cuentas de gastos e inversiones",
+    "explicacion": "Usa una cuenta solo para gastos diarios y otra para invertir. Así evitas usar tu dinero destinado a crecer.",
+    "categoria": "Organización financiera",
+    "nivel_ingreso": ["Nivel 3"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N3-SINDEUDA-007",
+    "titulo": "Define metas financieras claras",
+    "explicacion": "Escribe 3 metas: corto, mediano y largo plazo. Ejemplo: vacaciones, enganche de casa, retiro.",
+    "categoria": "Organización financiera",
+    "nivel_ingreso": ["Nivel 3"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N3-SINDEUDA-008",
+    "titulo": "Diversifica con FIBRAs",
+    "explicacion": "Invierte en FIBRAs (fideicomisos de bienes raíces). Son accesibles y te dan ingresos pasivos.",
+    "categoria": "Inversión",
+    "nivel_ingreso": ["Nivel 3"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N3-SINDEUDA-009",
+    "titulo": "Invierte en educación continua",
+    "explicacion": "Toma cursos avanzados en tu área o nuevas habilidades. Aumenta tu valor en el mercado laboral.",
+    "categoria": "Inversión en ti mismo",
+    "nivel_ingreso": ["Nivel 3"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N3-SINDEUDA-010",
+    "titulo": "Automatiza tu ahorro de inversión",
+    "explicacion": "Programa que cada quincena se transfiera dinero a tu cuenta de inversión. Así no dependes de tu fuerza de voluntad.",
+    "categoria": "Ahorro",
+    "nivel_ingreso": ["Nivel 3"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N3-SINDEUDA-011",
+    "titulo": "No aumentes tu estilo de vida con cada aumento",
+    "explicacion": "Cuando suba tu sueldo, guarda esa diferencia en ahorro o inversión. Así creces sin sentirlo.",
+    "categoria": "Ahorro",
+    "nivel_ingreso": ["Nivel 3"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N3-SINDEUDA-012",
+    "titulo": "Abre una cuenta de inversión internacional",
+    "explicacion": "Plataformas como GBM o Kuspit te permiten acceder a ETFs globales. Así reduces riesgo país.",
+    "categoria": "Inversión",
+    "nivel_ingreso": ["Nivel 3"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N3-SINDEUDA-013",
+    "titulo": "Separa dinero para vacaciones",
+    "explicacion": "Crea un ahorro específico para viajes. Así disfrutas sin endeudarte al regresar.",
+    "categoria": "Ahorro",
+    "nivel_ingreso": ["Nivel 3"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N3-SINDEUDA-014",
+    "titulo": "Evita financiar lujos",
+    "explicacion": "Si quieres algo caro (reloj, coche, celular), ahorra primero. No uses crédito para bienes de lujo.",
+    "categoria": "Gastos",
+    "nivel_ingreso": ["Nivel 3"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N3-SINDEUDA-015",
+    "titulo": "Planea metas a 5 años",
+    "explicacion": "Escribe dónde quieres estar financieramente en 5 años (casa, negocio, inversiones). Esto guía tus decisiones diarias.",
+    "categoria": "Organización financiera",
+    "nivel_ingreso": ["Nivel 3"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N4-DEUDA-001",
+    "titulo": "Haz una reestructura formal con tu banco",
+    "explicacion": "Con este nivel de ingresos, no dejes que la deuda te consuma. Pide a tu banco una reestructura con tasa más baja y plazos claros.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 4"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N4-DEUDA-002",
+    "titulo": "Evalúa la consolidación de créditos",
+    "explicacion": "Si tienes varias tarjetas, busca un préstamo personal a menor tasa y liquida todo de una vez. Pagas menos intereses y simplificas tus finanzas.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 4"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N4-DEUDA-003",
+    "titulo": "No uses tarjeta para estilo de vida",
+    "explicacion": "Con tu ingreso puedes cubrir gastos. No financies restaurantes, gadgets o viajes con crédito; acelera la salida de deuda.",
+    "categoria": "Gastos",
+    "nivel_ingreso": ["Nivel 4"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N4-DEUDA-004",
+    "titulo": "Elimina primero las deudas con CAT mayor al 60%",
+    "explicacion": "Liquida los créditos más caros (tarjetas departamentales, préstamos exprés). Ahí es donde se te va más dinero en intereses.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 4"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N4-DEUDA-005",
+    "titulo": "Usa 50% de tus bonos para pagar deuda",
+    "explicacion": "Con ingresos altos, destina al menos la mitad de tu bono o aguinaldo a deudas. Reducirás años de intereses.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 4"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N4-DEUDA-006",
+    "titulo": "No caigas en el mínimo de la tarjeta",
+    "explicacion": "Aunque ganes más, pagar solo el mínimo sigue atrapándote en deuda. Liquida por completo lo que puedas.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 4"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N4-DEUDA-007",
+    "titulo": "Reduce gastos aspiracionales",
+    "explicacion": "Baja consumo en ropa de marca, gadgets o viajes hasta que liquides deudas. Estos lujos inflan tu deuda sin darte estabilidad.",
+    "categoria": "Gastos",
+    "nivel_ingreso": ["Nivel 4"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N4-DEUDA-008",
+    "titulo": "Revisa tu Buró antes de pedir créditos grandes",
+    "explicacion": "No te comprometas con hipotecas o autos de lujo mientras tengas deudas caras. Espera a limpiar tu historial.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 4"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N4-DEUDA-009",
+    "titulo": "Haz pagos semanales si es posible",
+    "explicacion": "Dividir tus pagos en abonos semanales baja el interés acumulado. Es especialmente útil en tarjetas.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 4"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N4-DEUDA-010",
+    "titulo": "No uses créditos personales para invertir",
+    "explicacion": "Nunca tomes deuda para meterla en bolsa o bienes raíces. El riesgo de perder dinero es mayor que el beneficio.",
+    "categoria": "Inversión",
+    "nivel_ingreso": ["Nivel 4"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N4-DEUDA-011",
+    "titulo": "Recorta membresías premium",
+    "explicacion": "Baja planes caros (gym de lujo, streaming premium) hasta que saldes tus deudas. Puedes retomarlos después.",
+    "categoria": "Gastos",
+    "nivel_ingreso": ["Nivel 4"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N4-DEUDA-012",
+    "titulo": "Busca apoyo fiscal para reestructuración",
+    "explicacion": "Con este nivel, un contador puede ayudarte a deducir intereses y optimizar pagos. Vale la pena consultarlo.",
+    "categoria": "Fiscal",
+    "nivel_ingreso": ["Nivel 4"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N4-DEUDA-013",
+    "titulo": "Mantén un ahorro de 5% mientras pagas",
+    "explicacion": "Aunque liquidas deuda, guarda 5% de tu ingreso en emergencias. Así no vuelves a endeudarte por un imprevisto.",
+    "categoria": "Ahorro",
+    "nivel_ingreso": ["Nivel 4"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N4-DEUDA-014",
+    "titulo": "Evita créditos para autos de lujo",
+    "explicacion": "Si ya tienes deuda, no sumes otra con coches de alta gama. Mejor liquida primero lo pendiente.",
+    "categoria": "Gastos",
+    "nivel_ingreso": ["Nivel 4"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N4-DEUDA-015",
+    "titulo": "Define una fecha límite para salir de deudas",
+    "explicacion": "Pon una meta clara: ej. en 18 meses estar libre de deuda. Eso te ayuda a planear abonos más agresivos.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 4"],
+    "condicion": ["Con deudas"]
+  },
+
+  {
+    "id": "N4-SINDEUDA-001",
+    "titulo": "Optimiza impuestos con deducciones",
+    "explicacion": "Guarda facturas de salud, educación, seguros y aportaciones voluntarias. Recuperarás dinero en tu declaración anual.",
+    "categoria": "Fiscal",
+    "nivel_ingreso": ["Nivel 4"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N4-SINDEUDA-002",
+    "titulo": "Diversifica en ETFs internacionales",
+    "explicacion": "Invierte en fondos que siguen índices globales. Así reduces riesgo y aprovechas mercados fuera de México.",
+    "categoria": "Inversión",
+    "nivel_ingreso": ["Nivel 4"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N4-SINDEUDA-003",
+    "titulo": "Contrata un seguro patrimonial",
+    "explicacion": "Protege tu casa, auto y bienes de alto valor. Un siniestro puede costar más que cualquier inversión.",
+    "categoria": "Seguros",
+    "nivel_ingreso": ["Nivel 4"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N4-SINDEUDA-004",
+    "titulo": "Ahorra al menos 20% de tu ingreso",
+    "explicacion": "Con tu capacidad, destina 20% a ahorro e inversión antes de ajustar gastos. El resto cubre estilo de vida.",
+    "categoria": "Ahorro",
+    "nivel_ingreso": ["Nivel 4"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N4-SINDEUDA-005",
+    "titulo": "Planea metas grandes a 5–10 años",
+    "explicacion": "Define objetivos como enganche de casa, negocio o independencia financiera. Así alineas tu inversión.",
+    "categoria": "Organización financiera",
+    "nivel_ingreso": ["Nivel 4"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N4-SINDEUDA-006",
+    "titulo": "Automatiza aportaciones voluntarias a Afore",
+    "explicacion": "Programa depósitos mensuales extra a tu Afore. Aprovechas el interés compuesto y mejoras tu retiro.",
+    "categoria": "Inversión",
+    "nivel_ingreso": ["Nivel 4"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N4-SINDEUDA-007",
+    "titulo": "Invierte en bienes raíces vía FIBRAs",
+    "explicacion": "Destina parte a FIBRAs. Obtendrás rentas sin necesidad de comprar propiedades completas.",
+    "categoria": "Inversión",
+    "nivel_ingreso": ["Nivel 4"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N4-SINDEUDA-008",
+    "titulo": "Consulta a un asesor fiscal",
+    "explicacion": "Con tu nivel de ingresos, un contador puede ahorrarte miles en impuestos. Es una inversión rentable.",
+    "categoria": "Fiscal",
+    "nivel_ingreso": ["Nivel 4"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N4-SINDEUDA-009",
+    "titulo": "Protege tu ingreso con un seguro de vida",
+    "explicacion": "Un seguro de vida protege a tu familia y asegura estabilidad si tú faltas. Ajusta la suma asegurada a tu nivel de ingreso.",
+    "categoria": "Seguros",
+    "nivel_ingreso": ["Nivel 4"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N4-SINDEUDA-010",
+    "titulo": "Invierte en planes privados de retiro",
+    "explicacion": "Un PPR te da beneficios fiscales y asegura un ingreso al jubilarte. Entre más pronto lo contrates, mejor.",
+    "categoria": "Inversión",
+    "nivel_ingreso": ["Nivel 4"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N4-SINDEUDA-011",
+    "titulo": "Separa cuentas de inversión nacional e internacional",
+    "explicacion": "Mantén una cuenta para invertir en México y otra para mercados extranjeros. Así gestionas mejor riesgos.",
+    "categoria": "Organización financiera",
+    "nivel_ingreso": ["Nivel 4"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N4-SINDEUDA-012",
+    "titulo": "Establece un porcentaje fijo de inversión",
+    "explicacion": "Define que el 10–15% de tu sueldo se invierta automáticamente cada mes. La disciplina construye patrimonio.",
+    "categoria": "Inversión",
+    "nivel_ingreso": ["Nivel 4"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N4-SINDEUDA-013",
+    "titulo": "Evita el gasto aspiracional excesivo",
+    "explicacion": "Aun con alto ingreso, controla compras de lujo. La clave es crecer patrimonio, no solo aparentar nivel de vida.",
+    "categoria": "Gastos",
+    "nivel_ingreso": ["Nivel 4"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N4-SINDEUDA-014",
+    "titulo": "Planea inversión en negocio propio",
+    "explicacion": "Si te interesa emprender, ahorra un fondo específico. No uses dinero de tu gasto diario para probar proyectos.",
+    "categoria": "Inversión",
+    "nivel_ingreso": ["Nivel 4"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N4-SINDEUDA-015",
+    "titulo": "Haz una revisión patrimonial anual",
+    "explicacion": "Cada año revisa tus activos, deudas y seguros. Ajusta lo necesario para mantener el rumbo hacia tus metas.",
+    "categoria": "Organización financiera",
+    "nivel_ingreso": ["Nivel 4"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N5-DEUDA-001",
+    "titulo": "Trata la deuda como estrategia, no como carga",
+    "explicacion": "Con ingresos altos, no toda deuda es mala. Prioriza liquidar créditos de consumo caros y conserva solo deuda productiva (hipoteca, negocio).",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 5"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N5-DEUDA-002",
+    "titulo": "Liquida de inmediato créditos personales caros",
+    "explicacion": "No tiene sentido mantener préstamos con intereses altos cuando tu flujo te permite pagarlos en meses.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 5"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N5-DEUDA-003",
+    "titulo": "Mantén la hipoteca bajo control",
+    "explicacion": "Si tienes hipoteca, considera abonos a capital anuales. Con tu ingreso, reducirás años de pagos e intereses.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 5"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N5-DEUDA-004",
+    "titulo": "No financies estilo de vida de lujo",
+    "explicacion": "Autos premium, gadgets o viajes deben ser de contado. No uses crédito para lujos que puedes pagar al instante.",
+    "categoria": "Gastos",
+    "nivel_ingreso": ["Nivel 5"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N5-DEUDA-005",
+    "titulo": "Evalúa si conviene deducir intereses de hipoteca",
+    "explicacion": "Algunas deudas hipotecarias generan beneficios fiscales. Consulta con tu contador antes de adelantar pagos.",
+    "categoria": "Fiscal",
+    "nivel_ingreso": ["Nivel 5"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N5-DEUDA-006",
+    "titulo": "Evita tarjetas departamentales",
+    "explicacion": "Con tu nivel de ingreso no necesitas créditos de tienda. Liquídalos y evita caer en intereses de hasta 90% anual.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 5"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N5-DEUDA-007",
+    "titulo": "No uses crédito para financiar negocios riesgosos",
+    "explicacion": "No inviertas con deuda en startups o proyectos poco sólidos. Usa solo capital propio para riesgos altos.",
+    "categoria": "Inversión",
+    "nivel_ingreso": ["Nivel 5"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N5-DEUDA-008",
+    "titulo": "Cubre deuda antes de aumentar patrimonio de lujo",
+    "explicacion": "Antes de comprar un coche de alta gama o una segunda propiedad, asegúrate de liquidar tus pasivos más caros.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 5"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N5-DEUDA-009",
+    "titulo": "Asigna un porcentaje fijo mensual a deuda",
+    "explicacion": "Define que al menos 20% de tu ingreso extra (bonos, comisiones) se destine a liquidar pasivos.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 5"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N5-DEUDA-010",
+    "titulo": "No uses deuda para apalancar inversiones arriesgadas",
+    "explicacion": "Invertir con dinero prestado en bolsa, cripto o forex puede generar pérdidas masivas. Evítalo.",
+    "categoria": "Inversión",
+    "nivel_ingreso": ["Nivel 5"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N5-DEUDA-011",
+    "titulo": "Negocia líneas de crédito empresariales",
+    "explicacion": "Si necesitas deuda, que sea empresarial y deducible. Es más eficiente que crédito personal.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 5"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N5-DEUDA-012",
+    "titulo": "Mantén liquidez para cubrir deuda rápido",
+    "explicacion": "Guarda parte de tu portafolio en instrumentos líquidos para poder abonar deuda en cualquier momento.",
+    "categoria": "Ahorro",
+    "nivel_ingreso": ["Nivel 5"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N5-DEUDA-013",
+    "titulo": "Evita financiar autos de colección o hobbies",
+    "explicacion": "Coleccionismo, arte o hobbies deben pagarse con capital propio, no con crédito.",
+    "categoria": "Gastos",
+    "nivel_ingreso": ["Nivel 5"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N5-DEUDA-014",
+    "titulo": "Asesórate en estrategias fiscales con deuda",
+    "explicacion": "Algunas deudas generan beneficios fiscales. Un asesor te ayudará a decidir si conviene liquidarlas o mantenerlas.",
+    "categoria": "Fiscal",
+    "nivel_ingreso": ["Nivel 5"],
+    "condicion": ["Con deudas"]
+  },
+  {
+    "id": "N5-DEUDA-015",
+    "titulo": "Pon fecha límite para quedar libre de deuda de consumo",
+    "explicacion": "Define un plazo concreto (ej. 12 meses) para liquidar cualquier deuda de consumo. Con tu ingreso es alcanzable.",
+    "categoria": "Deudas",
+    "nivel_ingreso": ["Nivel 5"],
+    "condicion": ["Con deudas"]
+  },
+
+  {
+    "id": "N5-SINDEUDA-001",
+    "titulo": "Diversifica en bienes raíces",
+    "explicacion": "Invierte en propiedades con valuación profesional o a través de FIBRAs. Proteges tu patrimonio y generas rentas.",
+    "categoria": "Inversión",
+    "nivel_ingreso": ["Nivel 5"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N5-SINDEUDA-002",
+    "titulo": "Invierte internacionalmente",
+    "explicacion": "Accede a ETFs globales, bonos y acciones extranjeras. Así reduces tu exposición a un solo país.",
+    "categoria": "Inversión",
+    "nivel_ingreso": ["Nivel 5"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N5-SINDEUDA-003",
+    "titulo": "Crea un fideicomiso patrimonial",
+    "explicacion": "Protege tus bienes e ingresos a futuro con un fideicomiso. Es ideal para planear herencia y blindar activos.",
+    "categoria": "Patrimonio",
+    "nivel_ingreso": ["Nivel 5"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N5-SINDEUDA-004",
+    "titulo": "Invierte en planes privados de retiro (PPR)",
+    "explicacion": "Contrata un PPR para aprovechar beneficios fiscales y asegurar ingresos en tu jubilación.",
+    "categoria": "Inversión",
+    "nivel_ingreso": ["Nivel 5"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N5-SINDEUDA-005",
+    "titulo": "Contrata seguros de alto nivel",
+    "explicacion": "Protege tu salud, patrimonio y familia con seguros de gastos médicos mayores y vida ajustados a tu ingreso.",
+    "categoria": "Seguros",
+    "nivel_ingreso": ["Nivel 5"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N5-SINDEUDA-006",
+    "titulo": "Define un legado financiero",
+    "explicacion": "Incluye testamento, fideicomisos y plan de sucesión. Tu objetivo ya no es solo crecer, sino trascender.",
+    "categoria": "Patrimonio",
+    "nivel_ingreso": ["Nivel 5"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N5-SINDEUDA-007",
+    "titulo": "Destina parte a filantropía estratégica",
+    "explicacion": "Elige causas que te importen y dona con estrategia fiscal. Generas impacto y beneficios tributarios.",
+    "categoria": "Filantropía",
+    "nivel_ingreso": ["Nivel 5"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N5-SINDEUDA-008",
+    "titulo": "Mantén un porcentaje en activos líquidos",
+    "explicacion": "Conserva parte en CETES o fondos de corto plazo. Te da liquidez sin sacrificar rentabilidad.",
+    "categoria": "Ahorro",
+    "nivel_ingreso": ["Nivel 5"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N5-SINDEUDA-009",
+    "titulo": "Invierte en educación internacional",
+    "explicacion": "Toma cursos, maestrías o certificaciones en el extranjero. Es una inversión en tu capital humano.",
+    "categoria": "Inversión en ti mismo",
+    "nivel_ingreso": ["Nivel 5"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N5-SINDEUDA-010",
+    "titulo": "Planea sucesión empresarial",
+    "explicacion": "Si tienes negocio, define herederos y protocolos. Evita conflictos familiares y protege el patrimonio.",
+    "categoria": "Patrimonio",
+    "nivel_ingreso": ["Nivel 5"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N5-SINDEUDA-011",
+    "titulo": "Reserva capital para inversión en startups",
+    "explicacion": "Destina un pequeño porcentaje (máx. 10%) a proyectos emergentes. Alto riesgo, pero diversifica tu portafolio.",
+    "categoria": "Inversión",
+    "nivel_ingreso": ["Nivel 5"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N5-SINDEUDA-012",
+    "titulo": "Haz una revisión patrimonial anual",
+    "explicacion": "Cada año revisa tu portafolio, propiedades y seguros. Ajusta con un asesor para optimizar rendimientos.",
+    "categoria": "Organización financiera",
+    "nivel_ingreso": ["Nivel 5"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N5-SINDEUDA-013",
+    "titulo": "Aplica estrategia fiscal avanzada",
+    "explicacion": "Usa deducciones, fideicomisos y sociedades para optimizar impuestos. Hazlo con asesor especializado.",
+    "categoria": "Fiscal",
+    "nivel_ingreso": ["Nivel 5"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N5-SINDEUDA-014",
+    "titulo": "Separa cuentas de lujo y patrimonio",
+    "explicacion": "Mantén un presupuesto claro para lujos (autos, viajes) y otro solo para crecer patrimonio. Así no comprometes tu futuro.",
+    "categoria": "Gastos",
+    "nivel_ingreso": ["Nivel 5"],
+    "condicion": ["Sin deudas"]
+  },
+  {
+    "id": "N5-SINDEUDA-015",
+    "titulo": "Establece metas de inversión intergeneracionales",
+    "explicacion": "Piensa en metas a 20–30 años: fondos educativos para hijos, fideicomisos familiares, inversiones en mercados globales.",
+    "categoria": "Patrimonio",
+    "nivel_ingreso": ["Nivel 5"],
+    "condicion": ["Sin deudas"]
+  }
+]
