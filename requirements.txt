@@ -1,0 +1,5 @@
+python-telegram-bot==20.7
+firebase-admin
+Flask
+gunicorn
+python-dotenv
